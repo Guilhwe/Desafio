@@ -21,7 +21,7 @@ public class App {
 
         System.out.println("Operaciones:");
         System.out.println();
-        System.out.println("1.Consultgar saldo");
+        System.out.println("1.Consultar saldo");
         System.out.println("2.Ingresar");
         System.out.println("3.Retirar");
         System.out.println("4.Salir");
